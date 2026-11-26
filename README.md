@@ -1,7 +1,6 @@
-# 氣壓迴路圖工具 v1.6.2
+# 氣壓迴路圖工具 
 
-單一檔案的氣壓迴路圖繪製工具，內建 116 個迴路模組庫。
+單一檔案的氣壓迴路圖繪製工具。 
 
-直接開啟 `index.html`，或透過 GitHub Pages 使用：https://leoyeh1987.github.io/pneumatic-tool-v1-18/
+教學影片連結:https://youtu.be/clmNWubcVEM
 
-改版內容見 [改版說明.md](改版說明.md)。
